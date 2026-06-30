@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Training",
+  "description": "Plataforma premium de entrenamiento físico guiado por video, instructores de élite, temporizadores interactivos y métricas de rendimiento en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
